@@ -1,8 +1,10 @@
 {
   "pokemon": [
     {
-      "height": 7,
       "id": 1,
+      "name": "bulbasaur",
+      "height": 7,
+      "weight": 69,
       "moves": [
         {
           "name": "razor-wind",
@@ -337,7 +339,6 @@
           "url": "https://pokeapi.co/api/v2/move/803/"
         }
       ],
-      "name": "bulbasaur",
       "stats": [
         {
           "base_stat": 45,
@@ -403,12 +404,13 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ],
-      "weight": 69
+      ]
     },
     {
-      "height": 10,
       "id": 2,
+      "name": "ivysaur",
+      "height": 10,
+      "weight": 130,
       "moves": [
         {
           "name": "swords-dance",
@@ -719,7 +721,6 @@
           "url": "https://pokeapi.co/api/v2/move/803/"
         }
       ],
-      "name": "ivysaur",
       "stats": [
         {
           "base_stat": 60,
@@ -785,12 +786,13 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ],
-      "weight": 130
+      ]
     },
     {
-      "height": 20,
       "id": 3,
+      "name": "venusaur",
+      "height": 20,
+      "weight": 1000,
       "moves": [
         {
           "name": "swords-dance",
@@ -1153,7 +1155,6 @@
           "url": "https://pokeapi.co/api/v2/move/805/"
         }
       ],
-      "name": "venusaur",
       "stats": [
         {
           "base_stat": 80,
@@ -1219,12 +1220,13 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ],
-      "weight": 1000
+      ]
     },
     {
-      "height": 6,
       "id": 4,
+      "name": "charmander",
+      "height": 6,
+      "weight": 85,
       "moves": [
         {
           "name": "mega-punch",
@@ -1635,7 +1637,6 @@
           "url": "https://pokeapi.co/api/v2/move/851/"
         }
       ],
-      "name": "charmander",
       "stats": [
         {
           "base_stat": 39,
@@ -1694,12 +1695,13 @@
             "url": "https://pokeapi.co/api/v2/type/10/"
           }
         }
-      ],
-      "weight": 85
+      ]
     },
     {
-      "height": 11,
       "id": 5,
+      "name": "charmeleon",
+      "height": 11,
+      "weight": 190,
       "moves": [
         {
           "name": "mega-punch",
@@ -2082,7 +2084,6 @@
           "url": "https://pokeapi.co/api/v2/move/851/"
         }
       ],
-      "name": "charmeleon",
       "stats": [
         {
           "base_stat": 58,
@@ -2141,12 +2142,13 @@
             "url": "https://pokeapi.co/api/v2/type/10/"
           }
         }
-      ],
-      "weight": 190
+      ]
     },
     {
-      "height": 17,
       "id": 6,
+      "name": "charizard",
+      "height": 17,
+      "weight": 905,
       "moves": [
         {
           "name": "mega-punch",
@@ -2649,7 +2651,6 @@
           "url": "https://pokeapi.co/api/v2/move/851/"
         }
       ],
-      "name": "charizard",
       "stats": [
         {
           "base_stat": 78,
@@ -2715,12 +2716,13 @@
             "url": "https://pokeapi.co/api/v2/type/3/"
           }
         }
-      ],
-      "weight": 905
+      ]
     },
     {
-      "height": 5,
       "id": 7,
+      "name": "squirtle",
+      "height": 5,
+      "weight": 90,
       "moves": [
         {
           "name": "mega-punch",
@@ -3123,7 +3125,6 @@
           "url": "https://pokeapi.co/api/v2/move/812/"
         }
       ],
-      "name": "squirtle",
       "stats": [
         {
           "base_stat": 44,
@@ -3182,12 +3183,13 @@
             "url": "https://pokeapi.co/api/v2/type/11/"
           }
         }
-      ],
-      "weight": 90
+      ]
     },
     {
-      "height": 10,
       "id": 8,
+      "name": "wartortle",
+      "height": 10,
+      "weight": 225,
       "moves": [
         {
           "name": "mega-punch",
@@ -3530,7 +3532,6 @@
           "url": "https://pokeapi.co/api/v2/move/812/"
         }
       ],
-      "name": "wartortle",
       "stats": [
         {
           "base_stat": 59,
@@ -3589,12 +3590,13 @@
             "url": "https://pokeapi.co/api/v2/type/11/"
           }
         }
-      ],
-      "weight": 225
+      ]
     },
     {
-      "height": 16,
       "id": 9,
+      "name": "blastoise",
+      "height": 16,
+      "weight": 855,
       "moves": [
         {
           "name": "mega-punch",
@@ -4021,7 +4023,6 @@
           "url": "https://pokeapi.co/api/v2/move/812/"
         }
       ],
-      "name": "blastoise",
       "stats": [
         {
           "base_stat": 79,
@@ -4080,12 +4081,13 @@
             "url": "https://pokeapi.co/api/v2/type/11/"
           }
         }
-      ],
-      "weight": 855
+      ]
     },
     {
-      "height": 3,
       "id": 10,
+      "name": "caterpie",
+      "height": 3,
+      "weight": 29,
       "moves": [
         {
           "name": "tackle",
@@ -4108,7 +4110,6 @@
           "url": "https://pokeapi.co/api/v2/move/527/"
         }
       ],
-      "name": "caterpie",
       "stats": [
         {
           "base_stat": 45,
@@ -4167,12 +4168,13 @@
             "url": "https://pokeapi.co/api/v2/type/7/"
           }
         }
-      ],
-      "weight": 29
+      ]
     },
     {
-      "height": 7,
       "id": 11,
+      "name": "metapod",
+      "height": 7,
+      "weight": 99,
       "moves": [
         {
           "name": "string-shot",
@@ -4195,7 +4197,6 @@
           "url": "https://pokeapi.co/api/v2/move/527/"
         }
       ],
-      "name": "metapod",
       "stats": [
         {
           "base_stat": 50,
@@ -4254,12 +4255,13 @@
             "url": "https://pokeapi.co/api/v2/type/7/"
           }
         }
-      ],
-      "weight": 99
+      ]
     },
     {
-      "height": 11,
       "id": 12,
+      "name": "butterfree",
+      "height": 11,
+      "weight": 320,
       "moves": [
         {
           "name": "razor-wind",
@@ -4606,7 +4608,6 @@
           "url": "https://pokeapi.co/api/v2/move/814/"
         }
       ],
-      "name": "butterfree",
       "stats": [
         {
           "base_stat": 60,
@@ -4672,12 +4673,13 @@
             "url": "https://pokeapi.co/api/v2/type/3/"
           }
         }
-      ],
-      "weight": 320
+      ]
     },
     {
-      "height": 3,
       "id": 13,
+      "name": "weedle",
+      "height": 3,
+      "weight": 32,
       "moves": [
         {
           "name": "poison-sting",
@@ -4696,7 +4698,6 @@
           "url": "https://pokeapi.co/api/v2/move/527/"
         }
       ],
-      "name": "weedle",
       "stats": [
         {
           "base_stat": 40,
@@ -4762,12 +4763,13 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ],
-      "weight": 32
+      ]
     },
     {
-      "height": 6,
       "id": 14,
+      "name": "kakuna",
+      "height": 6,
+      "weight": 100,
       "moves": [
         {
           "name": "string-shot",
@@ -4790,7 +4792,6 @@
           "url": "https://pokeapi.co/api/v2/move/527/"
         }
       ],
-      "name": "kakuna",
       "stats": [
         {
           "base_stat": 45,
@@ -4856,12 +4857,13 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ],
-      "weight": 100
+      ]
     },
     {
-      "height": 10,
       "id": 15,
+      "name": "beedrill",
+      "height": 10,
+      "weight": 295,
       "moves": [
         {
           "name": "swords-dance",
@@ -5192,7 +5194,6 @@
           "url": "https://pokeapi.co/api/v2/move/693/"
         }
       ],
-      "name": "beedrill",
       "stats": [
         {
           "base_stat": 65,
@@ -5258,12 +5259,13 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ],
-      "weight": 295
+      ]
     },
     {
-      "height": 3,
       "id": 16,
+      "name": "pidgey",
+      "height": 3,
+      "weight": 18,
       "moves": [
         {
           "name": "razor-wind",
@@ -5522,7 +5524,6 @@
           "url": "https://pokeapi.co/api/v2/move/590/"
         }
       ],
-      "name": "pidgey",
       "stats": [
         {
           "base_stat": 40,
@@ -5588,12 +5589,13 @@
             "url": "https://pokeapi.co/api/v2/type/3/"
           }
         }
-      ],
-      "weight": 18
+      ]
     },
     {
-      "height": 11,
       "id": 17,
+      "name": "pidgeotto",
+      "height": 11,
+      "weight": 300,
       "moves": [
         {
           "name": "razor-wind",
@@ -5836,7 +5838,6 @@
           "url": "https://pokeapi.co/api/v2/move/590/"
         }
       ],
-      "name": "pidgeotto",
       "stats": [
         {
           "base_stat": 63,
@@ -5902,12 +5903,13 @@
             "url": "https://pokeapi.co/api/v2/type/3/"
           }
         }
-      ],
-      "weight": 300
+      ]
     },
     {
-      "height": 15,
       "id": 18,
+      "name": "pidgeot",
+      "height": 15,
+      "weight": 395,
       "moves": [
         {
           "name": "razor-wind",
@@ -6162,7 +6164,6 @@
           "url": "https://pokeapi.co/api/v2/move/673/"
         }
       ],
-      "name": "pidgeot",
       "stats": [
         {
           "base_stat": 83,
@@ -6228,12 +6229,13 @@
             "url": "https://pokeapi.co/api/v2/type/3/"
           }
         }
-      ],
-      "weight": 395
+      ]
     },
     {
-      "height": 3,
       "id": 19,
+      "name": "rattata",
+      "height": 3,
+      "weight": 35,
       "moves": [
         {
           "name": "cut",
@@ -6564,7 +6566,6 @@
           "url": "https://pokeapi.co/api/v2/move/673/"
         }
       ],
-      "name": "rattata",
       "stats": [
         {
           "base_stat": 30,
@@ -6623,12 +6624,13 @@
             "url": "https://pokeapi.co/api/v2/type/1/"
           }
         }
-      ],
-      "weight": 35
+      ]
     },
     {
-      "height": 7,
       "id": 20,
+      "name": "raticate",
+      "height": 7,
+      "weight": 185,
       "moves": [
         {
           "name": "swords-dance",
@@ -6967,7 +6969,6 @@
           "url": "https://pokeapi.co/api/v2/move/707/"
         }
       ],
-      "name": "raticate",
       "stats": [
         {
           "base_stat": 55,
@@ -7026,12 +7027,13 @@
             "url": "https://pokeapi.co/api/v2/type/1/"
           }
         }
-      ],
-      "weight": 185
+      ]
     },
     {
-      "height": 3,
       "id": 21,
+      "name": "spearow",
+      "height": 3,
+      "weight": 20,
       "moves": [
         {
           "name": "razor-wind",
@@ -7310,7 +7312,6 @@
           "url": "https://pokeapi.co/api/v2/move/590/"
         }
       ],
-      "name": "spearow",
       "stats": [
         {
           "base_stat": 40,
@@ -7376,12 +7377,13 @@
             "url": "https://pokeapi.co/api/v2/type/3/"
           }
         }
-      ],
-      "weight": 20
+      ]
     },
     {
-      "height": 12,
       "id": 22,
+      "name": "fearow",
+      "height": 12,
+      "weight": 380,
       "moves": [
         {
           "name": "razor-wind",
@@ -7660,7 +7662,6 @@
           "url": "https://pokeapi.co/api/v2/move/675/"
         }
       ],
-      "name": "fearow",
       "stats": [
         {
           "base_stat": 65,
@@ -7726,12 +7727,13 @@
             "url": "https://pokeapi.co/api/v2/type/3/"
           }
         }
-      ],
-      "weight": 380
+      ]
     },
     {
-      "height": 20,
       "id": 23,
+      "name": "ekans",
+      "height": 20,
+      "weight": 69,
       "moves": [
         {
           "name": "bind",
@@ -8062,7 +8064,6 @@
           "url": "https://pokeapi.co/api/v2/move/693/"
         }
       ],
-      "name": "ekans",
       "stats": [
         {
           "base_stat": 35,
@@ -8121,12 +8122,13 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ],
-      "weight": 69
+      ]
     },
     {
-      "height": 35,
       "id": 24,
+      "name": "arbok",
+      "height": 35,
+      "weight": 650,
       "moves": [
         {
           "name": "bind",
@@ -8461,7 +8463,6 @@
           "url": "https://pokeapi.co/api/v2/move/707/"
         }
       ],
-      "name": "arbok",
       "stats": [
         {
           "base_stat": 60,
@@ -8520,12 +8521,13 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ],
-      "weight": 650
+      ]
     },
     {
-      "height": 4,
       "id": 25,
+      "name": "pikachu",
+      "height": 4,
+      "weight": 60,
       "moves": [
         {
           "name": "mega-punch",
@@ -8932,7 +8934,6 @@
           "url": "https://pokeapi.co/api/v2/move/885/"
         }
       ],
-      "name": "pikachu",
       "stats": [
         {
           "base_stat": 35,
@@ -8991,12 +8992,13 @@
             "url": "https://pokeapi.co/api/v2/type/13/"
           }
         }
-      ],
-      "weight": 60
+      ]
     },
     {
-      "height": 8,
       "id": 26,
+      "name": "raichu",
+      "height": 8,
+      "weight": 300,
       "moves": [
         {
           "name": "mega-punch",
@@ -9419,7 +9421,6 @@
           "url": "https://pokeapi.co/api/v2/move/885/"
         }
       ],
-      "name": "raichu",
       "stats": [
         {
           "base_stat": 60,
@@ -9478,12 +9479,13 @@
             "url": "https://pokeapi.co/api/v2/type/13/"
           }
         }
-      ],
-      "weight": 300
+      ]
     },
     {
-      "height": 6,
       "id": 27,
+      "name": "sandshrew",
+      "height": 6,
+      "weight": 120,
       "moves": [
         {
           "name": "scratch",
@@ -9850,7 +9852,6 @@
           "url": "https://pokeapi.co/api/v2/move/815/"
         }
       ],
-      "name": "sandshrew",
       "stats": [
         {
           "base_stat": 50,
@@ -9909,12 +9910,13 @@
             "url": "https://pokeapi.co/api/v2/type/5/"
           }
         }
-      ],
-      "weight": 120
+      ]
     },
     {
-      "height": 10,
       "id": 28,
+      "name": "sandslash",
+      "height": 10,
+      "weight": 295,
       "moves": [
         {
           "name": "scratch",
@@ -10289,7 +10291,6 @@
           "url": "https://pokeapi.co/api/v2/move/815/"
         }
       ],
-      "name": "sandslash",
       "stats": [
         {
           "base_stat": 75,
@@ -10348,12 +10349,13 @@
             "url": "https://pokeapi.co/api/v2/type/5/"
           }
         }
-      ],
-      "weight": 295
+      ]
     },
     {
-      "height": 4,
       "id": 29,
+      "name": "nidoran-f",
+      "height": 4,
+      "weight": 70,
       "moves": [
         {
           "name": "scratch",
@@ -10668,7 +10670,6 @@
           "url": "https://pokeapi.co/api/v2/move/599/"
         }
       ],
-      "name": "nidoran-f",
       "stats": [
         {
           "base_stat": 55,
@@ -10727,12 +10728,13 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ],
-      "weight": 70
+      ]
     },
     {
-      "height": 8,
       "id": 30,
+      "name": "nidorina",
+      "height": 8,
+      "weight": 200,
       "moves": [
         {
           "name": "scratch",
@@ -11043,7 +11045,6 @@
           "url": "https://pokeapi.co/api/v2/move/707/"
         }
       ],
-      "name": "nidorina",
       "stats": [
         {
           "base_stat": 70,
@@ -11102,12 +11103,13 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ],
-      "weight": 200
+      ]
     },
     {
-      "height": 13,
       "id": 31,
+      "name": "nidoqueen",
+      "height": 13,
+      "weight": 600,
       "moves": [
         {
           "name": "mega-punch",
@@ -11642,7 +11644,6 @@
           "url": "https://pokeapi.co/api/v2/move/815/"
         }
       ],
-      "name": "nidoqueen",
       "stats": [
         {
           "base_stat": 90,
@@ -11708,12 +11709,13 @@
             "url": "https://pokeapi.co/api/v2/type/5/"
           }
         }
-      ],
-      "weight": 600
+      ]
     },
     {
-      "height": 5,
       "id": 32,
+      "name": "nidoran-m",
+      "height": 5,
+      "weight": 90,
       "moves": [
         {
           "name": "cut",
@@ -12036,7 +12038,6 @@
           "url": "https://pokeapi.co/api/v2/move/684/"
         }
       ],
-      "name": "nidoran-m",
       "stats": [
         {
           "base_stat": 46,
@@ -12095,12 +12096,13 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ],
-      "weight": 90
+      ]
     },
     {
-      "height": 9,
       "id": 33,
+      "name": "nidorino",
+      "height": 9,
+      "weight": 195,
       "moves": [
         {
           "name": "cut",
@@ -12407,7 +12409,6 @@
           "url": "https://pokeapi.co/api/v2/move/707/"
         }
       ],
-      "name": "nidorino",
       "stats": [
         {
           "base_stat": 61,
@@ -12466,12 +12467,13 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ],
-      "weight": 195
+      ]
     },
     {
-      "height": 14,
       "id": 34,
+      "name": "nidoking",
+      "height": 14,
+      "weight": 620,
       "moves": [
         {
           "name": "mega-punch",
@@ -13010,7 +13012,6 @@
           "url": "https://pokeapi.co/api/v2/move/815/"
         }
       ],
-      "name": "nidoking",
       "stats": [
         {
           "base_stat": 81,
@@ -13076,12 +13077,13 @@
             "url": "https://pokeapi.co/api/v2/type/5/"
           }
         }
-      ],
-      "weight": 620
+      ]
     },
     {
-      "height": 6,
       "id": 35,
+      "name": "clefairy",
+      "height": 6,
+      "weight": 75,
       "moves": [
         {
           "name": "pound",
@@ -13668,7 +13670,6 @@
           "url": "https://pokeapi.co/api/v2/move/814/"
         }
       ],
-      "name": "clefairy",
       "stats": [
         {
           "base_stat": 70,
@@ -13727,12 +13728,13 @@
             "url": "https://pokeapi.co/api/v2/type/18/"
           }
         }
-      ],
-      "weight": 75
+      ]
     },
     {
-      "height": 13,
       "id": 36,
+      "name": "clefable",
+      "height": 13,
+      "weight": 400,
       "moves": [
         {
           "name": "pound",
@@ -14323,7 +14325,6 @@
           "url": "https://pokeapi.co/api/v2/move/814/"
         }
       ],
-      "name": "clefable",
       "stats": [
         {
           "base_stat": 95,
@@ -14382,12 +14383,13 @@
             "url": "https://pokeapi.co/api/v2/type/18/"
           }
         }
-      ],
-      "weight": 400
+      ]
     },
     {
-      "height": 6,
       "id": 37,
+      "name": "vulpix",
+      "height": 6,
+      "weight": 99,
       "moves": [
         {
           "name": "headbutt",
@@ -14710,7 +14712,6 @@
           "url": "https://pokeapi.co/api/v2/move/807/"
         }
       ],
-      "name": "vulpix",
       "stats": [
         {
           "base_stat": 38,
@@ -14769,12 +14770,13 @@
             "url": "https://pokeapi.co/api/v2/type/10/"
           }
         }
-      ],
-      "weight": 99
+      ]
     },
     {
-      "height": 11,
       "id": 38,
+      "name": "ninetales",
+      "height": 11,
+      "weight": 199,
       "moves": [
         {
           "name": "headbutt",
@@ -15121,7 +15123,6 @@
           "url": "https://pokeapi.co/api/v2/move/815/"
         }
       ],
-      "name": "ninetales",
       "stats": [
         {
           "base_stat": 73,
@@ -15180,12 +15181,13 @@
             "url": "https://pokeapi.co/api/v2/type/10/"
           }
         }
-      ],
-      "weight": 199
+      ]
     },
     {
-      "height": 5,
       "id": 39,
+      "name": "jigglypuff",
+      "height": 5,
+      "weight": 55,
       "moves": [
         {
           "name": "pound",
@@ -15772,7 +15774,6 @@
           "url": "https://pokeapi.co/api/v2/move/886/"
         }
       ],
-      "name": "jigglypuff",
       "stats": [
         {
           "base_stat": 115,
@@ -15838,12 +15839,13 @@
             "url": "https://pokeapi.co/api/v2/type/18/"
           }
         }
-      ],
-      "weight": 55
+      ]
     },
     {
-      "height": 10,
       "id": 40,
+      "name": "wigglytuff",
+      "height": 10,
+      "weight": 120,
       "moves": [
         {
           "name": "pound",
@@ -16450,7 +16452,6 @@
           "url": "https://pokeapi.co/api/v2/move/886/"
         }
       ],
-      "name": "wigglytuff",
       "stats": [
         {
           "base_stat": 140,
@@ -16516,12 +16517,13 @@
             "url": "https://pokeapi.co/api/v2/type/18/"
           }
         }
-      ],
-      "weight": 120
+      ]
     },
     {
-      "height": 8,
       "id": 41,
+      "name": "zubat",
+      "height": 8,
+      "weight": 75,
       "moves": [
         {
           "name": "razor-wind",
@@ -16852,7 +16854,6 @@
           "url": "https://pokeapi.co/api/v2/move/814/"
         }
       ],
-      "name": "zubat",
       "stats": [
         {
           "base_stat": 40,
@@ -16918,12 +16919,13 @@
             "url": "https://pokeapi.co/api/v2/type/3/"
           }
         }
-      ],
-      "weight": 75
+      ]
     },
     {
-      "height": 16,
       "id": 42,
+      "name": "golbat",
+      "height": 16,
+      "weight": 550,
       "moves": [
         {
           "name": "razor-wind",
@@ -17250,7 +17252,6 @@
           "url": "https://pokeapi.co/api/v2/move/814/"
         }
       ],
-      "name": "golbat",
       "stats": [
         {
           "base_stat": 75,
@@ -17316,12 +17317,13 @@
             "url": "https://pokeapi.co/api/v2/type/3/"
           }
         }
-      ],
-      "weight": 550
+      ]
     },
     {
-      "height": 5,
       "id": 43,
+      "name": "oddish",
+      "height": 5,
+      "weight": 54,
       "moves": [
         {
           "name": "swords-dance",
@@ -17596,7 +17598,6 @@
           "url": "https://pokeapi.co/api/v2/move/803/"
         }
       ],
-      "name": "oddish",
       "stats": [
         {
           "base_stat": 45,
@@ -17662,12 +17663,13 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ],
-      "weight": 54
+      ]
     },
     {
-      "height": 8,
       "id": 44,
+      "name": "gloom",
+      "height": 8,
+      "weight": 86,
       "moves": [
         {
           "name": "swords-dance",
@@ -17930,7 +17932,6 @@
           "url": "https://pokeapi.co/api/v2/move/803/"
         }
       ],
-      "name": "gloom",
       "stats": [
         {
           "base_stat": 60,
@@ -17996,12 +17997,13 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ],
-      "weight": 86
+      ]
     },
     {
-      "height": 12,
       "id": 45,
+      "name": "vileplume",
+      "height": 12,
+      "weight": 186,
       "moves": [
         {
           "name": "swords-dance",
@@ -18288,7 +18290,6 @@
           "url": "https://pokeapi.co/api/v2/move/810/"
         }
       ],
-      "name": "vileplume",
       "stats": [
         {
           "base_stat": 75,
@@ -18354,12 +18355,13 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ],
-      "weight": 186
+      ]
     },
     {
-      "height": 3,
       "id": 46,
+      "name": "paras",
+      "height": 3,
+      "weight": 54,
       "moves": [
         {
           "name": "scratch",
@@ -18706,7 +18708,6 @@
           "url": "https://pokeapi.co/api/v2/move/590/"
         }
       ],
-      "name": "paras",
       "stats": [
         {
           "base_stat": 35,
@@ -18772,12 +18773,13 @@
             "url": "https://pokeapi.co/api/v2/type/12/"
           }
         }
-      ],
-      "weight": 54
+      ]
     },
     {
-      "height": 10,
       "id": 47,
+      "name": "parasect",
+      "height": 10,
+      "weight": 295,
       "moves": [
         {
           "name": "scratch",
@@ -19100,7 +19102,6 @@
           "url": "https://pokeapi.co/api/v2/move/675/"
         }
       ],
-      "name": "parasect",
       "stats": [
         {
           "base_stat": 60,
@@ -19166,12 +19167,13 @@
             "url": "https://pokeapi.co/api/v2/type/12/"
           }
         }
-      ],
-      "weight": 295
+      ]
     },
     {
-      "height": 10,
       "id": 48,
+      "name": "venonat",
+      "height": 10,
+      "weight": 300,
       "moves": [
         {
           "name": "headbutt",
@@ -19454,7 +19456,6 @@
           "url": "https://pokeapi.co/api/v2/move/884/"
         }
       ],
-      "name": "venonat",
       "stats": [
         {
           "base_stat": 60,
@@ -19520,12 +19521,13 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ],
-      "weight": 300
+      ]
     },
     {
-      "height": 15,
       "id": 49,
+      "name": "venomoth",
+      "height": 15,
+      "weight": 125,
       "moves": [
         {
           "name": "razor-wind",
@@ -19876,7 +19878,6 @@
           "url": "https://pokeapi.co/api/v2/move/884/"
         }
       ],
-      "name": "venomoth",
       "stats": [
         {
           "base_stat": 70,
@@ -19942,12 +19943,13 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ],
-      "weight": 125
+      ]
     },
     {
-      "height": 2,
       "id": 50,
+      "name": "diglett",
+      "height": 2,
+      "weight": 8,
       "moves": [
         {
           "name": "scratch",
@@ -20262,7 +20264,6 @@
           "url": "https://pokeapi.co/api/v2/move/851/"
         }
       ],
-      "name": "diglett",
       "stats": [
         {
           "base_stat": 10,
@@ -20321,8 +20322,8 @@
             "url": "https://pokeapi.co/api/v2/type/5/"
           }
         }
-      ],
-      "weight": 8
+      ]
     }
   ]
+
 }
