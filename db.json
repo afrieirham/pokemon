@@ -403,7 +403,8 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ]
+      ],
+      "weight": 69
     },
     {
       "height": 10,
@@ -784,7 +785,8 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ]
+      ],
+      "weight": 130
     },
     {
       "height": 20,
@@ -1217,7 +1219,8 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ]
+      ],
+      "weight": 1000
     },
     {
       "height": 6,
@@ -1691,7 +1694,8 @@
             "url": "https://pokeapi.co/api/v2/type/10/"
           }
         }
-      ]
+      ],
+      "weight": 85
     },
     {
       "height": 11,
@@ -2137,7 +2141,8 @@
             "url": "https://pokeapi.co/api/v2/type/10/"
           }
         }
-      ]
+      ],
+      "weight": 190
     },
     {
       "height": 17,
@@ -2710,7 +2715,8 @@
             "url": "https://pokeapi.co/api/v2/type/3/"
           }
         }
-      ]
+      ],
+      "weight": 905
     },
     {
       "height": 5,
@@ -3176,7 +3182,8 @@
             "url": "https://pokeapi.co/api/v2/type/11/"
           }
         }
-      ]
+      ],
+      "weight": 90
     },
     {
       "height": 10,
@@ -3582,7 +3589,8 @@
             "url": "https://pokeapi.co/api/v2/type/11/"
           }
         }
-      ]
+      ],
+      "weight": 225
     },
     {
       "height": 16,
@@ -4072,7 +4080,8 @@
             "url": "https://pokeapi.co/api/v2/type/11/"
           }
         }
-      ]
+      ],
+      "weight": 855
     },
     {
       "height": 3,
@@ -4158,7 +4167,8 @@
             "url": "https://pokeapi.co/api/v2/type/7/"
           }
         }
-      ]
+      ],
+      "weight": 29
     },
     {
       "height": 7,
@@ -4244,7 +4254,8 @@
             "url": "https://pokeapi.co/api/v2/type/7/"
           }
         }
-      ]
+      ],
+      "weight": 99
     },
     {
       "height": 11,
@@ -4661,7 +4672,8 @@
             "url": "https://pokeapi.co/api/v2/type/3/"
           }
         }
-      ]
+      ],
+      "weight": 320
     },
     {
       "height": 3,
@@ -4750,7 +4762,8 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ]
+      ],
+      "weight": 32
     },
     {
       "height": 6,
@@ -4843,7 +4856,8 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ]
+      ],
+      "weight": 100
     },
     {
       "height": 10,
@@ -5244,7 +5258,8 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ]
+      ],
+      "weight": 295
     },
     {
       "height": 3,
@@ -5573,7 +5588,8 @@
             "url": "https://pokeapi.co/api/v2/type/3/"
           }
         }
-      ]
+      ],
+      "weight": 18
     },
     {
       "height": 11,
@@ -5886,7 +5902,8 @@
             "url": "https://pokeapi.co/api/v2/type/3/"
           }
         }
-      ]
+      ],
+      "weight": 300
     },
     {
       "height": 15,
@@ -6211,7 +6228,8 @@
             "url": "https://pokeapi.co/api/v2/type/3/"
           }
         }
-      ]
+      ],
+      "weight": 395
     },
     {
       "height": 3,
@@ -6605,7 +6623,8 @@
             "url": "https://pokeapi.co/api/v2/type/1/"
           }
         }
-      ]
+      ],
+      "weight": 35
     },
     {
       "height": 7,
@@ -7007,7 +7026,8 @@
             "url": "https://pokeapi.co/api/v2/type/1/"
           }
         }
-      ]
+      ],
+      "weight": 185
     },
     {
       "height": 3,
@@ -7356,7 +7376,8 @@
             "url": "https://pokeapi.co/api/v2/type/3/"
           }
         }
-      ]
+      ],
+      "weight": 20
     },
     {
       "height": 12,
@@ -7705,7 +7726,8 @@
             "url": "https://pokeapi.co/api/v2/type/3/"
           }
         }
-      ]
+      ],
+      "weight": 380
     },
     {
       "height": 20,
@@ -8099,7 +8121,8 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ]
+      ],
+      "weight": 69
     },
     {
       "height": 35,
@@ -8497,7 +8520,8 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ]
+      ],
+      "weight": 650
     },
     {
       "height": 4,
@@ -8967,7 +8991,8 @@
             "url": "https://pokeapi.co/api/v2/type/13/"
           }
         }
-      ]
+      ],
+      "weight": 60
     },
     {
       "height": 8,
@@ -9453,7 +9478,8 @@
             "url": "https://pokeapi.co/api/v2/type/13/"
           }
         }
-      ]
+      ],
+      "weight": 300
     },
     {
       "height": 6,
@@ -9883,7 +9909,8 @@
             "url": "https://pokeapi.co/api/v2/type/5/"
           }
         }
-      ]
+      ],
+      "weight": 120
     },
     {
       "height": 10,
@@ -10321,7 +10348,8 @@
             "url": "https://pokeapi.co/api/v2/type/5/"
           }
         }
-      ]
+      ],
+      "weight": 295
     },
     {
       "height": 4,
@@ -10699,7 +10727,8 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ]
+      ],
+      "weight": 70
     },
     {
       "height": 8,
@@ -11073,7 +11102,8 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ]
+      ],
+      "weight": 200
     },
     {
       "height": 13,
@@ -11678,7 +11708,8 @@
             "url": "https://pokeapi.co/api/v2/type/5/"
           }
         }
-      ]
+      ],
+      "weight": 600
     },
     {
       "height": 5,
@@ -12064,7 +12095,8 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ]
+      ],
+      "weight": 90
     },
     {
       "height": 9,
@@ -12434,7 +12466,8 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ]
+      ],
+      "weight": 195
     },
     {
       "height": 14,
@@ -13043,7 +13076,8 @@
             "url": "https://pokeapi.co/api/v2/type/5/"
           }
         }
-      ]
+      ],
+      "weight": 620
     },
     {
       "height": 6,
@@ -13693,7 +13727,8 @@
             "url": "https://pokeapi.co/api/v2/type/18/"
           }
         }
-      ]
+      ],
+      "weight": 75
     },
     {
       "height": 13,
@@ -14347,7 +14382,8 @@
             "url": "https://pokeapi.co/api/v2/type/18/"
           }
         }
-      ]
+      ],
+      "weight": 400
     },
     {
       "height": 6,
@@ -14733,7 +14769,8 @@
             "url": "https://pokeapi.co/api/v2/type/10/"
           }
         }
-      ]
+      ],
+      "weight": 99
     },
     {
       "height": 11,
@@ -15143,7 +15180,8 @@
             "url": "https://pokeapi.co/api/v2/type/10/"
           }
         }
-      ]
+      ],
+      "weight": 199
     },
     {
       "height": 5,
@@ -15800,7 +15838,8 @@
             "url": "https://pokeapi.co/api/v2/type/18/"
           }
         }
-      ]
+      ],
+      "weight": 55
     },
     {
       "height": 10,
@@ -16477,7 +16516,8 @@
             "url": "https://pokeapi.co/api/v2/type/18/"
           }
         }
-      ]
+      ],
+      "weight": 120
     },
     {
       "height": 8,
@@ -16878,7 +16918,8 @@
             "url": "https://pokeapi.co/api/v2/type/3/"
           }
         }
-      ]
+      ],
+      "weight": 75
     },
     {
       "height": 16,
@@ -17275,7 +17316,8 @@
             "url": "https://pokeapi.co/api/v2/type/3/"
           }
         }
-      ]
+      ],
+      "weight": 550
     },
     {
       "height": 5,
@@ -17620,7 +17662,8 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ]
+      ],
+      "weight": 54
     },
     {
       "height": 8,
@@ -17953,7 +17996,8 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ]
+      ],
+      "weight": 86
     },
     {
       "height": 12,
@@ -18310,7 +18354,8 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ]
+      ],
+      "weight": 186
     },
     {
       "height": 3,
@@ -18727,7 +18772,8 @@
             "url": "https://pokeapi.co/api/v2/type/12/"
           }
         }
-      ]
+      ],
+      "weight": 54
     },
     {
       "height": 10,
@@ -19120,7 +19166,8 @@
             "url": "https://pokeapi.co/api/v2/type/12/"
           }
         }
-      ]
+      ],
+      "weight": 295
     },
     {
       "height": 10,
@@ -19473,7 +19520,8 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ]
+      ],
+      "weight": 300
     },
     {
       "height": 15,
@@ -19894,7 +19942,8 @@
             "url": "https://pokeapi.co/api/v2/type/4/"
           }
         }
-      ]
+      ],
+      "weight": 125
     },
     {
       "height": 2,
@@ -20272,7 +20321,8 @@
             "url": "https://pokeapi.co/api/v2/type/5/"
           }
         }
-      ]
+      ],
+      "weight": 8
     }
   ]
 }
